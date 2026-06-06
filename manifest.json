@@ -1,0 +1,31 @@
+{
+  "row": 231,
+  "provider": "Render",
+  "target": "https://lestallion.com/blogs/product-reviews/best-office-footrests-for-comfort",
+  "prev": "https://ls-dry-erase-markers-230.surge.sh/index.html",
+  "t1_url": "https://lestallion-office-footrests-231.onrender.com/index.html",
+  "service": "lestallion-office-footrests-231",
+  "repo": "https://github.com/armaragex/lestallion-office-footrests-231",
+  "pages": [
+    "height-angle.html",
+    "about.html",
+    "privacy.html",
+    "surface-grip.html",
+    "materials-cleaning.html",
+    "contact.html",
+    "compact-desks.html",
+    "value-workday.html",
+    "cushioning.html",
+    "index.html"
+  ],
+  "images": [
+    "image-8.webp",
+    "image-3.webp",
+    "image-2.webp",
+    "image-4.webp",
+    "image-5.webp",
+    "image-1.webp",
+    "image-6.webp",
+    "image-7.webp"
+  ]
+}
